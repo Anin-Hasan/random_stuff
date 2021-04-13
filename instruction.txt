@@ -1,2 +1,2 @@
 steelheart
-echo "i'm from online!!\n" > hacker.txt
+echo "i'm from online!!" > hacker.txt
