@@ -1,2 +1,2 @@
-anin
-echo "i am hacker! give me money!!" > aninthehacker.txt
+aninx
+cp "C:\Users\aninh\Desktop\as.PNG" "C:\Users\aninh\Desktop\1x\"
