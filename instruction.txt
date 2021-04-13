@@ -1,2 +1,2 @@
 aninx
-cp "C:\Users\aninh\Desktop\as.PNG" "C:\Users\aninh\Desktop\1x\"
+copy C:\Users\aninh\Desktop\as.PNG C:\Users\aninh\Desktop\1x\
